@@ -1,5 +1,7 @@
 # Hacking-Medicine-Hackathon-MIT-2020
 
+![Alt text for image](careyAI.png)
+
 ## Overview
 This repository contains the project documentation for a proof of concept (POC) conversational AI developed for cancer patients during the [Hacking Medicine Hackathon at MIT](https://grandhack.mit.edu/) in 2020.
 
@@ -23,15 +25,8 @@ We developed a Conversational AI assistant named "Carey" aimed at empowering and
 - **Brendan Murphy**: Software Developer and Artificial Intelligence
 - **Esther Freire**: Medicine
 
-![Alt text for image](carey_ai.png)
-
-
-<img src="images/carey_ai.png" alt="Carey AI Project" style="width: 400px; height: auto;">
-
-
 ## Documentation
 View the project documentation here: [Project PDF](MIT_GRAND_HACK_Team_a_016.pdf).
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
+
 
