@@ -24,6 +24,8 @@ We developed a Conversational AI assistant named "Carey" aimed at empowering and
 - **Esther Freire**: Medicine
 - **Riyaadh Mohamed**: Management Consultant
 
+- ![Alt text for image](https://github.com/csbrendan/Hacking-Medicine-Hackathon-MIT-2020/blob/main/carey_ai.png)
+
 ## Documentation
 View the project documentation here: [Project PDF](MIT_GRAND_HACK_Team_a_016.pdf).
 
