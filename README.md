@@ -22,9 +22,12 @@ We developed a Conversational AI assistant named "Carey" aimed at empowering and
 - **Agustina Saenz**: Physician
 - **Brendan Murphy**: Software Developer and Artificial Intelligence
 - **Esther Freire**: Medicine
-- **Riyaadh Mohamed**: Management Consultant
 
-- ![Alt text for image](https://github.com/csbrendan/Hacking-Medicine-Hackathon-MIT-2020/blob/main/carey_ai.png)
+![Alt text for image](carey_ai.png)
+
+
+<img src="images/carey_ai.png" alt="Carey AI Project" style="width: 400px; height: auto;">
+
 
 ## Documentation
 View the project documentation here: [Project PDF](MIT_GRAND_HACK_Team_a_016.pdf).
